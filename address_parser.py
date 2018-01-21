@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from imposm.parser import OSMParser
 import csv
 
